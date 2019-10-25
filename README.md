@@ -1,4 +1,4 @@
-# Awesome Raspberry Pi
+# Jesus barrera gomez pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](./CONTRIBUTORS.md)
@@ -36,7 +36,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## OS Images
 
-- [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
+- [Jesus barrera gomez](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 - [Android Things](https://developer.android.com/things/hardware/raspberrypi.html) - Build connected devices for a wide variety of consumer, retail, and industrial applications. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
